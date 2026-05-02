@@ -145,5 +145,5 @@ Resource Manager and Azure OpenAI
 This is an early-stage personal project. Issues and PRs welcome once the
 function-calling rewrite lands.
 
-License
+## License
 TBD
